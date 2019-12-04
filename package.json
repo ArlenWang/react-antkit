@@ -18,7 +18,8 @@
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "analyze": "source-map-explorer build/static/js/3.5a76e8af.chunk.js"
   },
   "eslintConfig": {
     "extends": "react-app"
